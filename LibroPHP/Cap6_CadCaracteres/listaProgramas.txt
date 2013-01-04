@@ -1,0 +1,30 @@
+capitulo 6
+
+--> seleccionSubcadenas.php
+--> limpiezaCadenas.php
+--> sustitucionCadenas.php
+--> sustitucionCadenas2.php
+--> funcMayusMinus.php
+-->Z funcLetraCapital.php
+--> expresionesRegulares.php
+
+
+Capitulo 7 Arreglos
+--> creacionArreglo.php
+--> funcList.php
+--> arrayMultidimensionales.php
+--> propiedadesArrays.php
+--> usoForeach.php
+--> recorridoArreglos.php
+--> recorridoArreglos2.php
+--> usoReset.php
+--> usoPrev.php
+--> usoPrevKey.php
+--> intercambioValores.php
+--> inversionContenido.php
+--> ordenacionValores.php
+
+Capitulo 13 PHP y MySQL
+--> conexion.php
+--> claseReuConexion.php
+--> insertarRegistros.php
